@@ -2153,3 +2153,467 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.05.27-03.59.03:547][373]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2024.05.27-03.59.03:567][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
 [2024.05.27-03.59.05:879][573]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.27-04.08.30:854][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.27-04.08.30:857][934]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/solar-system/Solar' took 0.017
+[2024.05.27-04.08.30:858][934]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Ships/PlayerShip/ShipCharacter] ([2] browsable assets)...
+[2024.05.27-04.08.30:991][934]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ships/PlayerShip/ShipCharacter.ShipCharacter]
+[2024.05.27-04.08.30:991][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ships/PlayerShip/ShipCharacter]
+[2024.05.27-04.08.31:030][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ships/PlayerShip/ShipCharacter_Auto1
+[2024.05.27-04.08.31:030][934]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter_Auto1C75A4D7E442F9C78C915DA9952B77806.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/Autosaves/Game/Ships/PlayerShip/ShipCharacter_Auto1.uasset'
+[2024.05.27-04.08.31:031][934]LogFileHelpers: Auto-saving content packages took 0.173
+[2024.05.27-04.22.43:209][ 99]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StarterContent/User_Interface/Menus/Game_Save_Option.Game_Save_Option
+[2024.05.27-04.22.43:209][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.22.43:209][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.22.43:215][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.22.43:215][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.27.53:043][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.27.53:103][855]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.27.53:103][855]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_GameB28B2188404C95D29563C582EEA5EFA7.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.27.53:110][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.11 sec)
+[2024.05.27-04.27.53:111][855]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.27.53:111][855]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.27.56:456][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.27.56:514][120]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.27.56:515][120]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game5A1402464986F07F176CA4990BB46390.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.27.56:522][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.17 sec)
+[2024.05.27-04.27.56:524][120]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.27.56:524][120]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.27.56:790][142]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.27.56:824][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.27-04.27.58:570][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.27.58:633][286]LogSavePackage: Moving output files for package: /Game/Ships/PlayerShip/ShipCharacter
+[2024.05.27-04.27.58:634][286]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter16CC50AE4B1D230F24F65E8D05AF85A9.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/Ships/PlayerShip/ShipCharacter.uasset'
+[2024.05.27-04.27.58:641][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.24 sec)
+[2024.05.27-04.27.58:644][286]AssetCheck: New page: Asset Save: ShipCharacter
+[2024.05.27-04.27.58:644][286]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ships/PlayerShip/ShipCharacter.ShipCharacter
+[2024.05.27-04.28.07:472][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.27-04.28.07:475][258]Cmd: MAP LOAD FILE="../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/Title_Screen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.27-04.28.07:476][258]LightingResults: New page: Lighting Build
+[2024.05.27-04.28.07:476][258]LoadErrors: New page: Loading map: Title_Screen.umap
+[2024.05.27-04.28.07:542][258]LogWorld: UWorld::CleanupWorld for Solar, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.28.07:542][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.28.07:542][258]MapCheck: New page: Map Check
+[2024.05.27-04.28.07:542][258]LightingResults: New page: Lighting Build
+[2024.05.27-04.28.07:554][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-04.28.07:556][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.05.27-04.28.07:575][258]LogAudio: Display: Audio Device (ID: 1) registered with world 'Title_Screen'.
+[2024.05.27-04.28.07:576][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.28.07:576][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.28.07:576][258]LogAIModule: Creating AISystem for world Title_Screen
+[2024.05.27-04.28.07:576][258]LogWorldPartition: ULevel::OnLevelLoaded(Title_Screen)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.05.27-04.28.07:576][258]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-04.28.07:576][258]LogWorldPartition: UWorldPartition::Initialize : World = Title_Screen, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-04.28.07:578][258]LogContentBundle: [Title_Screen(Standalone)] Creating new contrainer.
+[2024.05.27-04.28.07:578][258]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 10 ms)
+[2024.05.27-04.28.07:635][258]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.27-04.28.07:651][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.27-04.28.07:657][258]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.27-04.28.07:657][258]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.455ms to complete.
+[2024.05.27-04.28.07:658][258]LogSlate: Window 'Open Level' being destroyed
+[2024.05.27-04.28.08:620][370]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.28.08:641][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.27-04.28.10:919][568]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.27-04.28.51:350][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.28.51:404][ 92]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.28.51:404][ 92]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_GameA114431647BD8335718C8F9CF6C99CE7.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.28.51:410][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.30 sec)
+[2024.05.27-04.28.51:412][ 92]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.28.51:412][ 92]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.29.02:125][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.29.02:190][949]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.29.02:190][949]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_GameDE87B9F242B7F718AA55BCB66D5DFCCB.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.29.02:197][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.38 sec)
+[2024.05.27-04.29.02:199][949]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.29.02:199][949]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.29.05:904][277]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.29.05:938][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.27-04.29.09:700][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.29.09:754][594]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.29.09:755][594]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_GameEF5D56A644392510CC3127912488D5BF.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.29.09:763][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.44 sec)
+[2024.05.27-04.29.09:764][594]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.29.09:764][594]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.29.15:836][167]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.29.15:857][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.27-04.29.41:515][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.29.41:571][914]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.29.41:572][914]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game6DEB042646C5CA58B5051DBC24F70975.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.29.41:580][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.50 sec)
+[2024.05.27-04.29.41:582][914]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.29.41:582][914]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.29.43:135][ 39]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.29.43:169][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.27-04.29.45:890][289]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.29.45:912][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.27-04.30.14:650][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.30.14:705][706]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.30.14:706][706]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game396A67974DA040A7E6C08BB54C9CFC98.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.30.14:712][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.57 sec)
+[2024.05.27-04.30.14:714][706]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.30.14:714][706]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.30.15:468][771]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.30.15:504][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.27-04.30.29:322][281]LogEditorViewport: Clicking Background
+[2024.05.27-04.30.31:569][486]LogSlate: External Image Picker: DecompressImage failed
+[2024.05.27-04.30.38:422][120]LogSlate: Window 'Project Settings' being destroyed
+[2024.05.27-04.30.38:429][120]LogSlate: Window 'Project Settings' being destroyed
+[2024.05.27-04.30.40:903][404]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyGameInstance.MyGameInstance
+[2024.05.27-04.30.40:904][404]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.30.40:904][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.30.46:943][ 71]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Title_Screen.Title_Screen:PersistentLevel.Title_Screen
+[2024.05.27-04.30.46:943][ 71]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.30.46:944][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.30.59:455][201]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.30.59:455][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.31.07:229][ 99]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.31.07:229][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.31.13:066][633]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.31.13:066][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.31.13:074][633]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.31.13:074][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.31.27:269][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.31.27:322][826]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.31.27:323][826]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game41A156974DF46AC1278AA595D04C4D22.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.31.27:329][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.63 sec)
+[2024.05.27-04.31.27:330][826]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.31.27:331][826]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.31.28:245][905]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.31.28:287][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.27-04.31.29:020][954]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.31.29:042][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.27-04.31.31:289][ 86]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.27-04.31.55:912][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.31.55:966][268]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.31.55:967][268]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game6787745E4046E677E742B786A5ED26CC.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.31.55:974][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.69 sec)
+[2024.05.27-04.31.55:977][268]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.31.55:977][268]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.31.56:896][350]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.31.56:929][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.27-04.31.57:997][438]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.31.58:020][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.27-04.32.27:265][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.32.27:321][939]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.32.27:322][939]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game485A587342252AF533BF93A09392C3C2.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.32.27:329][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.75 sec)
+[2024.05.27-04.32.27:331][939]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.32.27:331][939]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.32.28:106][ 11]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.32.28:138][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.27-04.32.29:324][114]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.32.29:346][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.27-04.32.54:588][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.32.54:649][499]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.32.54:649][499]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game1052EAD04C150E36B2A42EB8FC167AB6.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.32.54:657][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.82 sec)
+[2024.05.27-04.32.54:658][499]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.32.54:658][499]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.32.55:158][545]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.32.55:199][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.27-04.32.56:246][631]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.32.56:266][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.27-04.32.58:330][763]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.27-04.33.39:637][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.33.39:710][265]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.33.39:711][265]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_GameFB72911F4F569838B0DF98892DEA1DE6.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.33.39:720][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.90 sec)
+[2024.05.27-04.33.39:722][265]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.33.39:722][265]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.33.40:396][314]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.33.40:429][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.27-04.34.14:243][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.34.14:298][178]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.34.14:298][178]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game0C7CCD714733FFE0F61384AD4044AED7.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.34.14:305][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.97 sec)
+[2024.05.27-04.34.14:306][178]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.34.14:306][178]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.34.15:223][260]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.34.15:228][260]LogBlueprint: Warning: [AssetLog] C:\Users\Grant\Code Classes\Capstone\TeamApollo-SpaceShipSimulator1000\TeamApolloSpaceShip\Content\StarterContent\User_Interface\Menus\WB_Save_Game.uasset: [Compiler] 'Ship Character User' does not inherit from 'Ship Character' ( Cast To ShipCharacter_User  would always fail).
+[2024.05.27-04.34.15:228][260]LogBlueprint: Warning: [AssetLog] C:\Users\Grant\Code Classes\Capstone\TeamApollo-SpaceShipSimulator1000\TeamApolloSpaceShip\Content\StarterContent\User_Interface\Menus\WB_Save_Game.uasset: [Compiler] 'Ship Character User' does not inherit from 'Ship Character' ( Cast To ShipCharacter_User  would always fail).
+[2024.05.27-04.34.15:259][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.27-04.34.24:493][ 93]LogEditorTransaction: Undo Delete current selection
+[2024.05.27-04.34.24:850][102]LogEditorTransaction: Undo Delete current selection
+[2024.05.27-04.34.25:277][131]LogEditorTransaction: Undo Move Node
+[2024.05.27-04.34.25:559][147]LogEditorTransaction: Undo Create Pin Link
+[2024.05.27-04.34.25:857][164]LogEditorTransaction: Undo Create Pin Link
+[2024.05.27-04.34.26:144][181]LogEditorTransaction: Undo Create Pin Link
+[2024.05.27-04.34.26:407][194]LogEditorTransaction: Undo Move Node
+[2024.05.27-04.34.26:778][218]LogEditorTransaction: Undo Create Pin Link
+[2024.05.27-04.34.27:114][240]LogEditorTransaction: Undo Move Node
+[2024.05.27-04.34.27:453][262]LogEditorTransaction: Undo Paste clipboard contents
+[2024.05.27-04.34.27:816][287]LogEditorTransaction: Undo Create Pin Link
+[2024.05.27-04.34.28:231][317]LogEditorTransaction: Undo Create Pin Link
+[2024.05.27-04.34.28:563][325]LogEditorTransaction: Undo Move Node
+[2024.05.27-04.34.29:001][354]LogEditorTransaction: Undo Add Node
+[2024.05.27-04.34.29:318][374]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.29:729][403]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.30:155][434]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.30:485][456]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.30:758][471]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.31:828][569]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.32:113][576]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.32:555][604]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.33:143][654]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.33:384][666]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.33:669][683]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.33:937][698]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.34:328][723]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.34:964][776]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.35:111][778]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.35:255][780]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.35:669][810]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.36:113][824]LogEditorTransaction: Undo Nudge Node
+[2024.05.27-04.34.38:004][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.34.38:058][999]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.34.38:059][999]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game2DE9ACA94254F62DAB823D9DD68B91A0.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.34.38:067][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.03 sec)
+[2024.05.27-04.34.38:068][999]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.34.38:068][999]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.34.38:795][ 64]BlueprintLog: New page: Compile WB_Save_Game
+[2024.05.27-04.34.38:833][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.27-04.35.01:315][275]LogContentBundle: [Title_Screen(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.27-04.35.01:315][275]LogWorldPartition: Display: GenerateStreaming for 'Title_Screen' started...
+[2024.05.27-04.35.01:317][275]LogWorldPartition: Display: GenerateStreaming for 'Title_Screen' took 2 ms (total: 28 ms)
+[2024.05.27-04.35.01:318][275]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.27-04.35.01:318][275]LogPlayLevel: [PlayLevel] Compiling WB_Save_Game before play...
+[2024.05.27-04.35.01:394][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.27-04.35.01:398][275]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2024.05.27-04.35.01:398][275]PIE: New page: PIE session: Title_Screen (May 26, 2024, 2:35:01 PM)
+[2024.05.27-04.35.01:429][275]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2024.05.27-04.35.01:431][275]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.05.27-04.35.01:458][276]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Title_Screen
+[2024.05.27-04.35.01:460][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002157s)
+[2024.05.27-04.35.01:460][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Title_Screen.Title_Screen to /Game/UEDPIE_0_Title_Screen.Title_Screen (0.002191s)
+[2024.05.27-04.35.01:472][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.27-04.35.01:474][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.35.01:474][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.35.01:474][276]LogAIModule: Creating AISystem for world Title_Screen
+[2024.05.27-04.35.01:474][276]LogWorldPartition: ULevel::OnLevelLoaded(Title_Screen)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.27-04.35.01:474][276]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.27-04.35.01:474][276]LogWorldPartition: UWorldPartition::Initialize : World = Title_Screen, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.27-04.35.01:474][276]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.27-04.35.01:475][276]LogContentBundle: [Title_Screen(Standalone)] Creating new contrainer.
+[2024.05.27-04.35.01:475][276]LogWorldPartition: Display: WorldPartition initialize took 641 us (total: 11 ms)
+[2024.05.27-04.35.01:475][276]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2024.05.27-04.35.01:475][276]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.05.27-04.35.01:475][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.27-04.35.01:475][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.27-04.35.01:475][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.27-04.35.01:475][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.27-04.35.01:475][276]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.27-04.35.01:475][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.27-04.35.01:475][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.27-04.35.01:475][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.27-04.35.01:476][276]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.27-04.35.01:476][276]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.27-04.35.01:476][276]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.27-04.35.01:477][276]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.27-04.35.01:501][276]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken Ultimate)
+[2024.05.27-04.35.01:501][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.27-04.35.01:501][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.27-04.35.01:501][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.27-04.35.01:502][276]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.05.27-04.35.01:502][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.05.27-04.35.01:503][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.05.27-04.35.01:503][276]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.05.27-04.35.01:503][276]LogInit: FAudioDevice initialized with ID 11.
+[2024.05.27-04.35.01:503][276]LogAudio: Display: Audio Device (ID: 11) registered with world 'Title_Screen'.
+[2024.05.27-04.35.01:503][276]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.27-04.35.01:505][276]LogLoad: Game class is 'DefaultGameMode_C'
+[2024.05.27-04.35.01:505][276]LogWorld: Bringing World /Game/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2024.05.26-21.35.01
+[2024.05.27-04.35.01:505][276]LogWorld: Bringing up level for play took: 0.000522
+[2024.05.27-04.35.01:508][276]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.27-04.35.01:508][276]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.27-04.35.01:508][276]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2024.05.27-04.35.01:508][276]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=-0.000000 Y=15.000000 R=180.000000
+[2024.05.27-04.35.01:508][276]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.05.27-04.35.01:509][276]PIE: Server logged in
+[2024.05.27-04.35.01:509][276]PIE: Play in editor total start time 0.194 seconds.
+[2024.05.27-04.35.03:683][522]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.27-04.35.03:683][522]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.27-04.35.03:684][522]LogNet: Browse: /Game/solar-system/Solar
+[2024.05.27-04.35.03:684][522]LogLoad: LoadMap: /Game/solar-system/Solar
+[2024.05.27-04.35.03:684][522]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Title_Screen
+[2024.05.27-04.35.03:684][522]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.35.03:684][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.35.03:684][522]LogContentBundle: [Title_Screen(Standalone)] Deleting container.
+[2024.05.27-04.35.03:684][522]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.35.03:684][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.35.03:733][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-04.35.03:735][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.27-04.35.03:749][522]LogAudio: Display: Audio Device (ID: 11) registered with world 'Solar'.
+[2024.05.27-04.35.03:749][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.35.03:749][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.35.03:749][522]LogAIModule: Creating AISystem for world Solar
+[2024.05.27-04.35.03:750][522]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2024.05.27-04.35.03:750][522]LogLoad: Game class is 'DefaultGameMode_C'
+[2024.05.27-04.35.03:751][522]LogWorld: Bringing World /Game/solar-system/UEDPIE_0_Solar.Solar up for play (max tick rate 0) at 2024.05.26-21.35.03
+[2024.05.27-04.35.03:752][522]LogWorld: Bringing up level for play took: 0.001836
+[2024.05.27-04.35.03:753][522]LogLoad: Took 0.069273 seconds to LoadMap(/Game/solar-system/Solar)
+[2024.05.27-04.35.10:024][259]LogViewport: Scene viewport resized to 368x184, mode Windowed.
+[2024.05.27-04.35.42:930][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-04.35.42:930][422]LogWorld: BeginTearingDown for /Game/solar-system/UEDPIE_0_Solar
+[2024.05.27-04.35.42:931][422]LogWorld: UWorld::CleanupWorld for Solar, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.35.42:931][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.35.42:944][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.27-04.35.42:947][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.35.42:961][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.27-04.35.42:961][422]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.27-04.35.42:961][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.27-04.35.42:963][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.27-04.35.42:969][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.27-04.35.43:037][423]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.27-04.35.49:110][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.35.49:165][ 79]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.35.49:166][ 79]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game10BACDFC4F33ABB2FFF112A47838FAFB.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.35.49:172][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.09 sec)
+[2024.05.27-04.35.49:174][ 79]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.35.49:174][ 79]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.35.58:032][966]LogSlate: Window 'Plugins' being destroyed
+[2024.05.27-04.35.58:037][966]LogSlate: Window 'Plugins' being destroyed
+[2024.05.27-04.35.58:037][966]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.05.27-04.35.59:909][137]LogSlate: External Image Picker: DecompressImage failed
+[2024.05.27-04.36.05:530][757]LogSlate: Window 'Project Settings' being destroyed
+[2024.05.27-04.36.05:535][757]LogSlate: Window 'Project Settings' being destroyed
+[2024.05.27-04.36.23:043][820]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DefaultGameMode.DefaultGameMode
+[2024.05.27-04.36.23:043][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.36.23:043][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.36.31:894][805]BlueprintLog: New page: Compile DefaultGameMode
+[2024.05.27-04.36.31:922][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.27-04.36.32:813][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.36.32:838][897]LogSavePackage: Moving output files for package: /Game/DefaultGameMode
+[2024.05.27-04.36.32:838][897]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/DefaultGameMode1011EE7A47FC26651944129C4A57F582.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/DefaultGameMode.uasset'
+[2024.05.27-04.36.32:845][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 2.12 sec)
+[2024.05.27-04.36.32:846][897]AssetCheck: New page: Asset Save: DefaultGameMode
+[2024.05.27-04.36.32:846][897]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DefaultGameMode.DefaultGameMode
+[2024.05.27-04.36.33:659][985]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.36.33:659][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.36.39:780][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.27-04.36.40:807][717]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.36.40:832][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.27-04.37.17:653][597]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.37.20:581][922]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ships/PlayerShip/ShipCharacter_User.ShipCharacter_User
+[2024.05.27-04.37.20:581][922]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.37.20:581][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.37.31:847][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.37.31:929][  6]LogSavePackage: Moving output files for package: /Game/Ships/PlayerShip/ShipCharacter_User
+[2024.05.27-04.37.31:930][  6]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter_UserFBE078764DD51C143EAAB29FC0187F27.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/Ships/PlayerShip/ShipCharacter_User.uasset'
+[2024.05.27-04.37.31:937][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.21 sec)
+[2024.05.27-04.37.31:938][  6]AssetCheck: New page: Asset Save: ShipCharacter_User
+[2024.05.27-04.37.31:938][  6]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ships/PlayerShip/ShipCharacter_User.ShipCharacter_User
+[2024.05.27-04.37.41:970][105]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.37.41:970][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.37.52:507][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.37.52:594][273]LogSavePackage: Moving output files for package: /Game/Ships/PlayerShip/ShipCharacter_User
+[2024.05.27-04.37.52:594][273]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter_UserBA7CA8364967BC0B3A40FCB1C3FD52C0.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/Ships/PlayerShip/ShipCharacter_User.uasset'
+[2024.05.27-04.37.52:601][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.31 sec)
+[2024.05.27-04.37.52:603][273]AssetCheck: New page: Asset Save: ShipCharacter_User
+[2024.05.27-04.37.52:603][273]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ships/PlayerShip/ShipCharacter_User.ShipCharacter_User
+[2024.05.27-04.37.53:271][345]BlueprintLog: New page: Compile ShipCharacter_User
+[2024.05.27-04.37.53:334][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.27-04.37.56:151][656]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.37.56:175][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.27-04.38.55:996][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.38.56:086][254]LogSavePackage: Moving output files for package: /Game/Ships/PlayerShip/ShipCharacter_User
+[2024.05.27-04.38.56:086][254]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/ShipCharacter_User603F3E93479861B7C3D1FC9075E7B53C.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/Ships/PlayerShip/ShipCharacter_User.uasset'
+[2024.05.27-04.38.56:093][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 2.41 sec)
+[2024.05.27-04.38.56:096][254]AssetCheck: New page: Asset Save: ShipCharacter_User
+[2024.05.27-04.38.56:096][254]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ships/PlayerShip/ShipCharacter_User.ShipCharacter_User
+[2024.05.27-04.38.56:505][296]BlueprintLog: New page: Compile ShipCharacter_User
+[2024.05.27-04.38.56:562][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.27-04.38.57:768][402]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.38.57:790][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.27-04.39.43:712][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.39.43:773][307]LogSavePackage: Moving output files for package: /Game/StarterContent/User_Interface/Menus/WB_Save_Game
+[2024.05.27-04.39.43:773][307]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/WB_Save_Game7D2616EA43923BAD27AB6DAF2C38267A.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/StarterContent/User_Interface/Menus/WB_Save_Game.uasset'
+[2024.05.27-04.39.43:781][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.48 sec)
+[2024.05.27-04.39.43:783][307]AssetCheck: New page: Asset Save: WB_Save_Game
+[2024.05.27-04.39.43:783][307]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_Save_Game.WB_Save_Game
+[2024.05.27-04.40.15:074][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.27-04.40.15:077][689]Cmd: MAP LOAD FILE="../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/solar-system/Solar.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.27-04.40.15:077][689]LightingResults: New page: Lighting Build
+[2024.05.27-04.40.15:078][689]LoadErrors: New page: Loading map: Solar.umap
+[2024.05.27-04.40.15:106][689]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.40.15:106][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.40.15:106][689]LogContentBundle: [Title_Screen(Standalone)] Deleting container.
+[2024.05.27-04.40.15:106][689]MapCheck: New page: Map Check
+[2024.05.27-04.40.15:106][689]LightingResults: New page: Lighting Build
+[2024.05.27-04.40.15:117][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.27-04.40.15:119][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.27-04.40.15:132][689]LogAudio: Display: Audio Device (ID: 1) registered with world 'Solar'.
+[2024.05.27-04.40.15:132][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.40.15:132][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.40.15:133][689]LogAIModule: Creating AISystem for world Solar
+[2024.05.27-04.40.15:174][689]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.27-04.40.15:189][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.27-04.40.15:196][689]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.27-04.40.15:196][689]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2024.05.27-04.40.15:196][689]LogSlate: Window 'Open Level' being destroyed
+[2024.05.27-04.40.20:484][300]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/solar-system/Solar.Solar:PersistentLevel.Solar
+[2024.05.27-04.40.20:485][300]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.40.20:485][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.40.26:128][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.40.26:201][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.27-04.40.26:217][825]LogSavePackage: Moving output files for package: /Game/solar-system/Solar
+[2024.05.27-04.40.26:217][825]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/Solar560B67B941CBD4DC4861639355FCF912.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/solar-system/Solar.umap'
+[2024.05.27-04.40.26:224][825]LogFileHelpers: Saving map 'Solar' took 0.070
+[2024.05.27-04.40.26:231][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.58 sec)
+[2024.05.27-04.40.26:233][825]AssetCheck: New page: Asset Save: Solar
+[2024.05.27-04.40.26:233][825]LogContentValidation: Display: Validating /Script/Engine.World /Game/solar-system/Solar.Solar
+[2024.05.27-04.40.26:692][866]BlueprintLog: New page: Compile Solar
+[2024.05.27-04.40.26:717][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.27-04.40.44:249][447]LogSlate: Took 0.003779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.27-04.41.04:527][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.41.04:595][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.27-04.41.04:612][527]LogSavePackage: Moving output files for package: /Game/solar-system/Solar
+[2024.05.27-04.41.04:612][527]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/Solar989D2CD942943F40B30EEEA578B6BDAE.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/solar-system/Solar.umap'
+[2024.05.27-04.41.04:619][527]LogFileHelpers: Saving map 'Solar' took 0.065
+[2024.05.27-04.41.04:625][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 2.68 sec)
+[2024.05.27-04.41.04:627][527]AssetCheck: New page: Asset Save: Solar
+[2024.05.27-04.41.04:627][527]LogContentValidation: Display: Validating /Script/Engine.World /Game/solar-system/Solar.Solar
+[2024.05.27-04.41.39:953][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.27-04.41.40:024][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.05.27-04.41.40:041][126]LogSavePackage: Moving output files for package: /Game/solar-system/Solar
+[2024.05.27-04.41.40:042][126]LogSavePackage: Moving '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Saved/Solar061261304B698CAC76C476A1EC02CA85.tmp' to '../../../../../../Users/Grant/Code Classes/Capstone/TeamApollo-SpaceShipSimulator1000/TeamApolloSpaceShip/Content/solar-system/Solar.umap'
+[2024.05.27-04.41.40:049][126]LogFileHelpers: Saving map 'Solar' took 0.066
+[2024.05.27-04.41.40:056][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.78 sec)
+[2024.05.27-04.41.40:059][126]AssetCheck: New page: Asset Save: Solar
+[2024.05.27-04.41.40:059][126]LogContentValidation: Display: Validating /Script/Engine.World /Game/solar-system/Solar.Solar
+[2024.05.27-04.41.40:794][199]BlueprintLog: New page: Compile Solar
+[2024.05.27-04.41.40:817][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.27-04.41.50:129][223]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_PlayMenu.WB_PlayMenu
+[2024.05.27-04.41.50:129][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.41.50:129][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.41.50:136][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.41.50:137][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.41.51:594][355]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.41.51:594][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.41.51:600][355]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.41.51:600][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.41.53:220][530]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StarterContent/User_Interface/Menus/WB_PauseMenu.WB_PauseMenu
+[2024.05.27-04.41.53:221][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.41.53:221][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.41.53:229][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.27-04.41.53:229][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.27-04.42.03:441][394]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.05.27-04.42.03:463][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.27-04.42.05:691][525]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.27-04.42.24:131][756]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.42.24:131][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.42.24:138][756]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.42.24:138][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.42.25:457][879]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.42.25:457][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.42.26:301][933]LogSlate: Window 'ShipCharacter_User' being destroyed
+[2024.05.27-04.42.26:309][933]LogSlate: Window 'ShipCharacter_User' being destroyed
+[2024.05.27-04.42.26:322][933]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.42.26:322][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.42.26:329][933]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.42.26:329][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.42.26:407][933]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.42.26:407][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.42.26:414][933]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.42.26:414][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.27-04.42.26:457][933]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.27-04.42.26:457][933]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.05.27-04.42.26:457][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
