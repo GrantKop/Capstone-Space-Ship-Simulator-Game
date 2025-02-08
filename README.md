@@ -6,7 +6,7 @@
 - Grant Kopczenski
 
 ## Description
-An immersive space flight simulator with built-in smart collision avoidance and a beautiful environment. This was a project created for our senior capstone requirement.
+An immersive space flight simulator with built-in smart collision avoidance and a beautiful environment. This project was created with Unreal Engine 5 for our senior capstone requirement.
 
 ## Screenshots
 ### Main Menu
